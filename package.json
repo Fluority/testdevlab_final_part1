@@ -1,0 +1,22 @@
+{
+  "name": "testdevlab_final_part1",
+  "version": "1.0.0",
+  "description": "final part1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fluority/testdevlab_final_part1.git"
+  },
+  "author": "Me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fluority/testdevlab_final_part1/issues"
+  },
+  "homepage": "https://github.com/Fluority/testdevlab_final_part1#readme",
+  "devDependencies": {
+    "cypress": "^10.3.0"
+  }
+}
